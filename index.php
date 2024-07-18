@@ -107,7 +107,7 @@ session_destroy();
                 <table style="width: 90%; max-width: 440; padding: 20px; margin: auto;">
                     <tr>
                         <td style="text-align: center;">
-                            <img src="img/logo.jpg" alt="LOGO" style="width: 50%;">
+                            <img src="img/logo.JPG" alt="LOGO" style="width: 50%;">
                         </td>
                     </tr>
                     <tr>
